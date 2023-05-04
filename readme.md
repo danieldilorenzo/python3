@@ -8,7 +8,7 @@
 
 ## Repo localizado em
 
-[Curso Python3 - Daniel Di Lorenzo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+[Curso Python3 - Daniel Di Lorenzo](https://github.com/danieldilorenzo/python3)
 
 ## Md escrito usando
 
