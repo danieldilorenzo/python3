@@ -5,4 +5,4 @@
 print("Desafio 001")
 
 nome = input("Qual seu nome? ")
-print("Olá " + nome + "! Muito prazer :)")
+print("Olá {}! Muito prazer :)".format(nome))
